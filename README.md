@@ -45,7 +45,7 @@ The dataset used in this project is the NIH Chest X-ray dataset, which contains 
 
 The model is trained using federated learning, and the performance is evaluated based on training and validation losses. The training history is visualized to show the progression of the training process.
 
-![image](https://github.com/Arjun-08/Federated-learning-over-IOMT/assets/88790572/df0870e5-430c-4083-90fb-80befeabcd5f)
+![image](MonkHacker1/Privacy-Preserving-Federated-Learning-for-Medical-Imaging/assets/88790572/df0870e5-430c-4083-90fb-80befeabcd5f)
 
 
 ## Conclusion
