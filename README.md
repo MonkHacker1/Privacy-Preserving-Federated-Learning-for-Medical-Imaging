@@ -54,5 +54,5 @@ This project showcases the implementation of federated learning using a deep neu
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to reach out to me at [nvarjunmani07@gmail.com](mailto:nvarjunmani07@gmail.com).
+If you have any questions or suggestions, please feel free to reach out to me at [aamirw808@gmail.com](mailto:aamirw808@gmail.com).
 
