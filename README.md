@@ -37,16 +37,27 @@ The dataset used in this project is the NIH Chest X-ray dataset, which contains 
 7. **Visualize Training History**:
     - Plot training and validation losses over the training rounds to monitor model performance.
     - (added screenshot from round 8 to round 10)
+
+<div align="center">
+  
+![Training History](https://github.com/user-attachments/assets/9fe8bc77-36c0-425a-9979-dc1bd499cf76)
+
+</div>
    
-      ![image](https://github.com/Arjun-08/Federated-learning-over-IOMT/assets/88790572/d4c49d27-e52c-446d-957d-203314e31a61)
+      
 
 
 ## Results
 
 The model is trained using federated learning, and the performance is evaluated based on training and validation losses. The training history is visualized to show the progression of the training process.
 
-![image](MonkHacker1/Privacy-Preserving-Federated-Learning-for-Medical-Imaging/assets/88790572/df0870e5-430c-4083-90fb-80befeabcd5f)
 
+
+<div align="center">
+  
+![Results Visualization](https://github.com/user-attachments/assets/b50c6fca-ae49-44e1-866c-b3ac5412f861)
+
+</div>
 
 ## Conclusion
 
